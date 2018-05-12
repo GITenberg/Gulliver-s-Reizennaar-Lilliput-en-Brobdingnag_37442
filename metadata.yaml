@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/326
     wikipedia: http://en.wikipedia.org/wiki/Jonathan_Swift
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37442#Gulliver-s-Reizennaar-Lilliput-en-Brobdingnag
 gutenberg_issued: '2011-09-15'
 gutenberg_type: Text
 identifiers:
