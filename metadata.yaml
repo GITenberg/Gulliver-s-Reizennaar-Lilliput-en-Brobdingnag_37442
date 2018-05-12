@@ -1,0 +1,40 @@
+_repo: Gulliver-s-Reizennaar-Lilliput-en-Brobdingnag_37442
+_version: 0.1.0
+alternative_title: Gulliver's travels. Dutch
+contributor:
+  translator:
+    agent_name: Verwey, Albert
+    birthdate: 1865
+    deathdate: 1937
+    gutenberg_agent_id: '38843'
+    url: http://www.gutenberg.org/2009/agents/38843
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Swift, Jonathan
+    alias: Swift, J. (Jonathan)
+    birthdate: 1667
+    deathdate: 1745
+    gutenberg_agent_id: '326'
+    url: http://www.gutenberg.org/2009/agents/326
+    wikipedia: http://en.wikipedia.org/wiki/Jonathan_Swift
+description: ''
+gutenberg_issued: '2011-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37442'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gulliver, Lemuel (Fictitious character) -- Fiction'
+- !lcsh 'Voyages, Imaginary -- Early works to 1800'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Satire'
+- !lcsh 'Travelers -- Fiction'
+- !lcc 'PR'
+title: Gulliver's Reizen naar Lilliput en Brobdingnag
+url: http://www.gutenberg.org/ebooks/37442
